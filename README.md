@@ -1,2 +1,1 @@
-# November-2022
-Resources from the meet on 4 November 2022
+# 2600 Meet on 4 November 2022
